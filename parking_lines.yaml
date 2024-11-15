@@ -1,0 +1,6 @@
+train: "/Users/sachinharshitha/Desktop/parking_violation_detection/dataset/train/images"
+val: "/Users/sachinharshitha/Desktop/parking_violation_detection/dataset/valid/images"
+test: "/Users/sachinharshitha/Desktop/parking_violation_detection/dataset/test/images"
+
+nc: 2  # number of classes
+names: ['car', 'lines']

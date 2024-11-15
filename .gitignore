@@ -1,0 +1,24 @@
+# Python-related
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+parking_env/
+yolov5_env
+env/
+.venv/
+
+# Dataset and large files
+/Users/sachinharshitha/Desktop/parking_violation_detection/dataset/
+/Users/sachinharshitha/Desktop/parking_violation_detection/test/
+
+# Cache files
+runs/
+*.log
+*.csv
+
+# System files
+.DS_Store
+.idea/
+.vscode/
